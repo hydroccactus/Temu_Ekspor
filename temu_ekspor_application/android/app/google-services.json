@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "236150161720",
+    "project_id": "temu-ekspor-application",
+    "storage_bucket": "temu-ekspor-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236150161720:android:fb28becbef45f34a0381cd",
+        "android_client_info": {
+          "package_name": "com.TemuEk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236150161720-te5slsgnaleqhrmlq75sts7fm4uclnkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMJeXzr2WnA9AQQhYkAuB_lIjLIGIjJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236150161720-te5slsgnaleqhrmlq75sts7fm4uclnkj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236150161720-komv9vomnfnprbhms0q720olp14qt584.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temuEksporApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
